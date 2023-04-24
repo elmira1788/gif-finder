@@ -2,7 +2,7 @@
 
 In this project I used create-react-app to build my Giph Finder app. I fetched interesting gifs from Giphy's public API and utilized react router dom to link to different pages of the app.
 
-** Technologies used:
+## Technologies used:
 
 HTML5
 
