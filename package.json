@@ -1,0 +1,36 @@
+{
+  "name": "project-8-react-giphy-gallery",
+  "version": "0.1.0",
+  "private": false,
+  "homepage": "https://cwu023.github.io/project-8-react-giphy-gallery",
+  "dependencies": {
+    "@giphy/js-fetch-api": "^4.8.1",
+    "axios": "^0.18.0",
+    "font-awesome": "^4.7.0",
+    "gh-pages": "^1.2.0",
+    "gifshot": "^0.4.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
