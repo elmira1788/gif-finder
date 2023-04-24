@@ -18,10 +18,6 @@ Public API: "Giphy" url: https://developers.giphy.com/
 
 
 
-## Installation
-### Pre-requisites
-- Git
-- Node.js
 
 
 1. Navigate to a directory of choice
